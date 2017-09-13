@@ -1,0 +1,23 @@
+{
+  "name": "js30-10_hold-shift-to-check-multiple-checkboxes",
+  "version": "1.0.0",
+  "description": "A script to check multiple checkboxes while holding shift (like in gmail)",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheafitzek/js30-10_hold-shift-to-check-multiple-checkboxes.git"
+  },
+  "author": "Shea Fitzek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheafitzek/js30-10_hold-shift-to-check-multiple-checkboxes/issues"
+  },
+  "homepage": "https://github.com/sheafitzek/js30-10_hold-shift-to-check-multiple-checkboxes",
+  "devDependencies": {
+    "gh-pages": "^1.0.0"
+  }
+}
